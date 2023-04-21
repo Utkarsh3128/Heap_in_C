@@ -10,4 +10,12 @@ There are two types of Heap data structure:
 2. Min Heap
 
 ## Max Heap 
- In a max-heap, the value of each parent node is greater than or equal to the values of its children nodes.
+ In a max-heap, the value of each parent node is greater than or equal to the values of its children nodes.<br>
+ 
+_Example_ <br>
+
+<p><img align="left" alt="img" width="50%" src=images/max_heap_example.jpg></img></p><br>
+
+
+## Min Heap
+In a min-heap, the value of each parent node is less than or equal to the values of its children nodes.

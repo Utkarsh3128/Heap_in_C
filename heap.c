@@ -120,14 +120,14 @@ int main()
     switch (choice)
     {
     case 1:
-        printf("Enter the number to be inserted\n");
+        printf("Enter the number to be inserted: \n");
         scanf("%d", &num);
         insert(array, num);
         printArray(array, size);
         break;
 
     case 2:
-        printf("Enter the number to be deleted\n");
+        printf("Enter the number to be deleted: \n");
         scanf("%d", &num);
         deleteRoot(array, num);
         printArray(array, size);

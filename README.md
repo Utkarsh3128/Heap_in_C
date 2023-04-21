@@ -22,4 +22,4 @@ In a min-heap, the value of each parent node is less than or equal to the values
 
 _Example_ <br>
 
-<p><img align="center" alt="img" width="50%" src=images/min_heap_example.jpg></img></p><br>
+<p><img align="center" alt="img" width="50%" src=images/min_heap_example.PNG></img></p><br>
